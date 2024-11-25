@@ -1,4 +1,4 @@
-# Filter Web GUI Application 🎨
+# Filter Web GUI 🎨
 
 ## Overview  
 Welcome to **Filter Web GUI**, a sleek and powerful web-based interface for creating, managing, and applying image filters with ease. Whether you're a developer, designer, or hobbyist, this application lets you explore creative possibilities while demonstrating the intersection of user-friendly design and advanced functionality.
